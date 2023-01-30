@@ -1,0 +1,1 @@
+# control-method-of-intelligent-prosthesis-based-on-gait-symmetry
