@@ -52,9 +52,9 @@
 │  dataAnalysis.py
 </pre>
 
-### main.c
+### main.cX
 
-假肢片上运行代码，进行实时步态分析与更新电机电流控制
+部分假肢片上运行代码，进行实时步态分析与更新电机电流控制。注，这仅仅是部分片上代码，此代码并不能直接运行。
 
 ### bvh.py, get_position.py
 
@@ -69,3 +69,8 @@
 ### dataAnalysis.py
 
 用于数据分析
+
+# reference
+1. IMU-Based Joint Angle Measurement for Gait Analysis
+2. A Novel Method for Estimating Knee Angle Using Two Leg-Mounted Gyroscopes for Continuous Monitoring with Mobile Health Devices
+3. https://github.com/Nagillimi/KneeAngleAlgorithmComparison/tree/master/Algorithms
